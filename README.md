@@ -6,6 +6,8 @@ and go full release at 30. I am working on it as a side project so if you like t
 
 if you want to have request a feature and have an idea of how to implement it feel free to email it to me at contact.silverlion@gmail.com
 
+(ALl code tested by a human and an ai [chat gpt], If any bugs found please email us)
+
 thank you for reading and enjoy mathf!
 
 -Silver Lion Studios
