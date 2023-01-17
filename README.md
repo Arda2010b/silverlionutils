@@ -1,4 +1,4 @@
-This was originally made as a math function called mathf due to c# haaving that function. 
+This was originally made as a math function called mathf due to c# having that function. 
 It started as a side project but now i am working on this more than other code (not including school).
 
 the outdated readme has contact info and i will update this one when i get the chance however right now i am working on a way to implement jsons
