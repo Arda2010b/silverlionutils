@@ -1,4 +1,4 @@
-import mathf
+from silverlion import mathf
 
 a = int(input())
 b = int(input())
