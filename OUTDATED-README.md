@@ -1,3 +1,5 @@
+--OUTDATED-
+
 mathf can all be done using math module built into python and only exists for people switching from c# to python to make it feel more like home. It also makes your code look sofisticated so students
 can impress their teachers. 
 
