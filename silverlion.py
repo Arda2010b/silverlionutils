@@ -53,5 +53,6 @@ class mathf:
     def pythagorus(x, y):
         return math.sqrt(x**2 + y**2)
 
-# usage 
-mathf.add(2,3)
+#EXAMPLE (the one in example_pythagorus explains better) 
+test__test = mathf.add(2, 3) #Adds 2 and 3 (5)
+print(test__test)
